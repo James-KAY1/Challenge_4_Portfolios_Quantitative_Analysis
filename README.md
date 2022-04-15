@@ -33,7 +33,7 @@ N/A
 
 ## Summary of Analysis
 
-1) Closing prices from 10/1/2014 through 9/11/2020 for four funds (Soros Fund Mgnt LLC, Paulson & Co. Inc., Tiger Global Mgnt LLC, & Berkshire Hathaway Inc.) and the S&P 500 Index were utilzied for the quantitative analysis. Below is a line graph of the cumulative returns computed for the 4 funds and the S&P 500 for the listed periods above. This was utilized to compare the 4 funds against the S&P 500 Index.
+1) Closing prices from 10/1/2014 through 9/11/2020 for the four funds (Soros Fund Mgnt LLC, Paulson & Co. Inc., Tiger Global Mgnt LLC, & Berkshire Hathaway Inc.) and the S&P 500 Index were utilzied for the quantitative analysis. Below is a line graph of the cumulative returns computed for the 4 funds and the S&P 500 for the listed periods above. This was utilized to compare the 4 funds against the S&P 500 Index.
 
 ![<cumulative_return_plot>](./Images/cumulative_return_plot.png)
 
@@ -48,3 +48,7 @@ N/A
 ![<beta_plot>](./Images/beta_plot.png)
 
 In conclusion, I would recommend Tiger Global Management LLC for inclusion into the clients portfolio because the average beta movement of the portfolio was between 0 and .01 from 2015 through 2020 which shows extremly low volatily against the market and its postive Sharp Ratio.
+
+**link to Analysis**
+
+[risk_return_analysis](./Starter_Code(3)/Starter_Code/risk_return_analysis.ipynb)
