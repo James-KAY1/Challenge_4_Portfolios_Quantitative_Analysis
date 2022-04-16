@@ -38,7 +38,7 @@ N/A
 ![<cumulative_return_plot>](./Images/cumulative_return_plot.png)
 
 
-2) Per the Sharp ratio (return/risk ratio annualized) computation shown below Tiger Global Mgnt LLC and Berkshire Hathaway Inc. were the 2 funds that were in line with the overall returns of the S&P 500 Index; So they were selected for further analysis for inclusion into the client's portfolio.
+2) Per the Sharp ratio (return/risk ratio annualized) plot shown below, Tiger Global Mgnt LLC and Berkshire Hathaway Inc. were the 2 funds that were in line with the overall returns of the S&P 500 Index; So they were selected for further analysis for inclusion into the client's portfolio.
 
 ![<Sharp_ratio_plot>](./Images/Sharp_Ratio_plot.png)
 
